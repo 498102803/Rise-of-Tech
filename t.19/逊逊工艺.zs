@@ -1,0 +1,3 @@
+// 逊逊块
+recipes.remove(<additions:unbrave_craft-unbrave_block>);
+recipes.addShaped(<additions:unbrave_craft-unbrave_block> * 1, [[<additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>], [<additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>],[<additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>, <additions:unbrave_craft-unbrave_ingot>]]);
